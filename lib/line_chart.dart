@@ -132,7 +132,7 @@ class _BarChartSGState extends State<BarChartSG> {
         show: true,
         topTitle: AxisTitle(
           showTitle: true,
-          titleText: "Singapore land reclamation by year, 1960-2019",
+          titleText: "Singapore land reclamation by year, 1960-2024",
           textStyle: TextStyle(color: Colors.black, fontWeight: FontWeight.bold, fontSize: 16),
           margin: 10,
         ),
